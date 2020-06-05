@@ -720,6 +720,8 @@ https://streaming-live.rtp.pt/liverepeater/rtp2.smil/master.m3u8
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/.m3u8?dvr
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/LN24LesNews24/picture?width=200&height=200" group-title="Int. Europa" tvg-name="LN24 Bélgica",LN24 Bélgica FR
 https://live.cdn.ln24.be/out/v1/b191621c8b9a436cad37bb36a82d2e1c/index.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/russiatoday.jpg" group-title="Jornalismo",RT en español
+https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RTnews/picture?width=200&height=200" group-title="Int. Europa" tvg-name="RT News",RT News EN
 https://rt-news-gd.secure2.footprint.net/1103.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/RTnews/picture?width=200&height=200" group-title="Int. Europa" tvg-name="RT News",RT News EN
